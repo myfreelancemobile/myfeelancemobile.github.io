@@ -1,0 +1,33 @@
+.slider {
+	background-color: white;
+}
+
+.slider img {
+	height: 150px;
+	margin-bottom: 0;
+  width: 100%;
+}
+
+.slide {
+	margin: -7.5px 0;
+}
+
+.content-padded {
+  margin: 15px;
+}
+
+.ico-bussiness {
+	width: 64px;
+}
+
+.slider .logo {
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+	width: 200px;
+}
+
+.centered {
+	position: relative;
+	left: 10%;
+}
